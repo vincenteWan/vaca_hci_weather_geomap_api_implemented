@@ -5,7 +5,6 @@ A modern, AI-powered farming assistant application built with React and Vite, he
 ## ✨ Features
 
 - 🎤 **Voice Interaction** - Speak naturally to get farming advice
-- 🤖 **AI-Powered** - Integrated with Gemini AI for intelligent responses
 - 🌤️ **Weather Information** - Get real-time weather updates
 - 📊 **Crop Management** - Track and manage your crops efficiently
 - 📱 **Responsive Design** - Works on all devices
@@ -19,7 +18,6 @@ Visit: [Your Vercel URL will be here]
 
 - **Frontend:** React 19 + Vite
 - **Styling:** Tailwind CSS
-- **AI:** Google Gemini API
 - **Icons:** Lucide React
 - **Deployment:** Vercel
 
